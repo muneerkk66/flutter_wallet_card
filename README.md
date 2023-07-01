@@ -7,7 +7,7 @@ Flutter plugin which allows users to create their own Apple Wallet Passes (as we
 
 ## Getting Started
 
-### Getting pass from URL and displays it on device
+### Getting pass from URL and displays it on device.
 
 ```dart
 import 'package:flutter_wallet_card/flutter_wallet_card.dart';
